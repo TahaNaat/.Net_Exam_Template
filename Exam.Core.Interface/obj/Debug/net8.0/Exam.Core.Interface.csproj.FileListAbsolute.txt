@@ -1,0 +1,11 @@
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\bin\Debug\net8.0\Exam.Core.Interface.deps.json
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\bin\Debug\net8.0\Exam.Core.Interface.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\bin\Debug\net8.0\Exam.Core.Interface.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.AssemblyInfoInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.AssemblyInfo.cs
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\refint\Exam.Core.Interface.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\Exam.Core.Interface.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Interface\obj\Debug\net8.0\ref\Exam.Core.Interface.dll

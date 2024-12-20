@@ -1,0 +1,11 @@
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\bin\Debug\net8.0\Exam.Core.Domain.deps.json
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\bin\Debug\net8.0\Exam.Core.Domain.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\bin\Debug\net8.0\Exam.Core.Domain.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.AssemblyInfo.cs
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\refint\Exam.Core.Domain.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\Exam.Core.Domain.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Domain\obj\Debug\net8.0\ref\Exam.Core.Domain.dll

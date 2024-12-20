@@ -1,0 +1,15 @@
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\bin\Debug\net8.0\Exam.Core.Services.deps.json
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\bin\Debug\net8.0\Exam.Core.Services.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\bin\Debug\net8.0\Exam.Core.Services.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\bin\Debug\net8.0\Exam.Core.Interface.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\bin\Debug\net8.0\Exam.Core.Interface.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.AssemblyInfoInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.AssemblyInfo.cs
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Cor.B76FD6F7.Up2Date
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\refint\Exam.Core.Services.dll
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\Exam.Core.Services.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Core.Services\obj\Debug\net8.0\ref\Exam.Core.Services.dll

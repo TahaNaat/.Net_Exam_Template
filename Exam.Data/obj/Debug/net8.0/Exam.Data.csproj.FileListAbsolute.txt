@@ -1,0 +1,17 @@
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Data.deps.json
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Data.runtimeconfig.json
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Data.dll
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Data.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Core.Interface.dll
+C:\Users\rahma\source\repos\Exam\Exam.Data\bin\Debug\net8.0\Exam.Core.Interface.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.AssemblyInfoInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.AssemblyInfo.cs
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.csproj.Up2Date
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.dll
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\refint\Exam.Data.dll
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.pdb
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\Exam.Data.genruntimeconfig.cache
+C:\Users\rahma\source\repos\Exam\Exam.Data\obj\Debug\net8.0\ref\Exam.Data.dll
